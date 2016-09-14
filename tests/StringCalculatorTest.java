@@ -15,7 +15,7 @@ public class StringCalculatorTest {
 	public void testEmptyString_One_Value_Return_Value() {
 		StringCalculator calculator = new StringCalculator();
 		
-		int result = calculator.add("1");
+		int result = calculator.add("5");
 		assertEquals(5, result);
 	}
 	
