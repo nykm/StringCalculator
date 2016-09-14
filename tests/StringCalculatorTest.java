@@ -8,9 +8,11 @@ public class StringCalculatorTest {
 	public void testEmptyString_Return_Zero() {
 		StringCalculator calculator = new Calculator();
 		
-		calculator.add("")
+		int result = calculator.add("");
+		assertEquals(0, result);
 	}
-	@Test
+	
+	//@Test
 	//public void test() {
 	//	fail("Not yet implemented");
 	//}
