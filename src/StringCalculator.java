@@ -7,6 +7,8 @@ public class StringCalculator {
 		
 		
 		Pattern pattern = Pattern.compile("([0-9]*)[ \n]([0-9]*)");
+		Matcher matcher(numberStr);
+		if (pattern.mat)
 		
 		
 		return 0;
