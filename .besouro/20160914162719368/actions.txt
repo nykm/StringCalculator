@@ -2,3 +2,4 @@ FileOpenedAction 1473859639414 StringCalculator.java 171 1 1 0
 FileOpenedAction 1473859768611 StringCalculatorTest.java 162 1 1 0
 EditAction 1473859815087 StringCalculator.java 187 1 2 0
 EditAction 1473859818656 StringCalculator.java 187 1 2 0
+EditAction 1473859819437 StringCalculator.java 193 1 2 0
