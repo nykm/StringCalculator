@@ -1,3 +1,4 @@
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class StringCalculator {
@@ -5,12 +6,19 @@ public class StringCalculator {
 		// Returns the sum of the numbers given in numbersStr
 		if (numbersStr == null || numbersStr.isEmpty()) return 0;
 		
+
+		Pattern pattern1 = Pattern.compile("([0-9]*)");
+		Pattern pattern2 = Pattern.compile("([0-9]*),([0-9]*)");
 		
-		Pattern pattern = Pattern.compile("([0-9]*)[ \n]([0-9]*)");
-		Matcher matcher(numberStr);
+		Matcher matcher = pattern1.matcher(numbersStr);
+
+		if (matcher.matches()) {
+			return Integer.parseInt(matcher.group(1));
+		}
 		
-		if (pattern.mat)
-		
+		if (matcher.matches()) {
+			return Integer.parseInt(matcher.group(2));
+		}
 		
 		return 0;
 	}
