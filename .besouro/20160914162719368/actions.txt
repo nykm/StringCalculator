@@ -153,3 +153,4 @@ RefactoringAction 1473861158535 SudokuVerifierTest.java RENAME testCandidateCont
 EditAction 1473861168146 SudokuVerifierTest.java 4220 10 31 8
 RefactoringAction 1473861175583 SudokuVerifierTest.java RENAME testCandidateContains_Zero_Err1()=>void testVerify_CandidateContains_Zero_Err1() METHOD
 EditAction 1473861175727 SudokuVerifierTest.java 4227 10 31 8
+EditAction 1473861178561 SudokuVerifierTest.java 4234 10 31 8
