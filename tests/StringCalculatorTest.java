@@ -18,6 +18,13 @@ public class StringCalculatorTest {
 		int result = calculator.add("5");
 		assertEquals(5, result);
 	}
+	@Test
+	public void testEmptyString_One_Value_Return_Value() {
+		StringCalculator calculator = new StringCalculator();
+		
+		int result = calculator.add("5");
+		assertEquals(5, result);
+	}
 	
 	//@Test
 	//public void test() {
