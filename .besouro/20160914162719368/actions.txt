@@ -154,3 +154,8 @@ EditAction 1473861168146 SudokuVerifierTest.java 4220 10 31 8
 RefactoringAction 1473861175583 SudokuVerifierTest.java RENAME testCandidateContains_Zero_Err1()=>void testVerify_CandidateContains_Zero_Err1() METHOD
 EditAction 1473861175727 SudokuVerifierTest.java 4227 10 31 8
 EditAction 1473861178561 SudokuVerifierTest.java 4234 10 31 8
+RefactoringAction 1473861184120 SudokuVerifierTest.java RENAME testVerify_CandidateContains_InvalidCharacter_Err1()=>void testVerify_InvalidCharacter_Err1() METHOD
+RefactoringAction 1473861186137 SudokuVerifierTest.java RENAME testVerify_CandidateContains_Zero_Err1()=>void testVerify_Zero_Err1() METHOD
+RefactoringAction 1473861189153 SudokuVerifierTest.java RENAME testVerify_CandidateContains_ShortString_Exception()=>void testVerify_ShortString_Exception() METHOD
+RefactoringAction 1473861191661 SudokuVerifierTest.java RENAME testVerify_CandidateContains_LongString_Exception()=>void testVerify_LongString_Exception() METHOD
+EditAction 1473861195587 SudokuVerifierTest.java 4151 10 31 8
