@@ -43,3 +43,8 @@ CompilationAction 1473859933949 StringCalculatorTest.java
 CompilationAction 1473859934099 StringCalculatorTest.java
 CompilationAction 1473859940706 StringCalculator.java
 EditAction 1473859955465 StringCalculator.java 219 1 0 0
+CompilationAction 1473859955705 StringCalculator.java
+RefactoringAction 1473859994342 StringCalculator.java ADD import java.util.regex.Pattern IMPORT
+CompilationAction 1473859995353 StringCalculator.java
+CompilationAction 1473859995508 StringCalculator.java
+EditAction 1473860004660 StringCalculator.java 285 1 3 0
