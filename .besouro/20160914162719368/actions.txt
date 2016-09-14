@@ -128,3 +128,15 @@ EditAction 1473860796905 StringCalculator.java 700 1 7 0
 EditAction 1473860798243 StringCalculator.java 700 1 7 0
 CompilationAction 1473860825732 StringCalculatorTest.java
 EditAction 1473860829632 StringCalculatorTest.java 524 2 6 2
+CompilationAction 1473860829839 StringCalculatorTest.java
+RefactoringAction 1473860837402 StringCalculatorTest.java RENAME testEmptyString_Return_Zero()/2=>void testEmptyString__Return_Zero() METHOD
+RefactoringAction 1473860838909 StringCalculatorTest.java RENAME testEmptyString__Return_Zero()=>void testEmptyString_Add_Return_Zero() METHOD
+RefactoringAction 1473861049929 StringCalculatorTest.java RENAME testEmptyString_Add_Return_Zero()=>void testEmptyString_Return_Zero()/2 METHOD
+RefactoringAction 1473861052937 StringCalculatorTest.java RENAME testEmptyString_Return_Zero()/2=>void testEmptyString_Add_Return_Zero() METHOD
+RefactoringAction 1473861057446 StringCalculatorTest.java RENAME testEmptyString_Add_Return_Zero()=>void testEmptyString_One_Return_Zero() METHOD
+RefactoringAction 1473861060456 StringCalculatorTest.java RENAME testEmptyString_One_Return_Zero()=>void testEmptyString_One_Value_Return_Zero() METHOD
+RefactoringAction 1473861064965 StringCalculatorTest.java RENAME testEmptyString_One_Value_Return_Zero()=>void testEmptyString_One_Value_Return_Value() METHOD
+CompilationAction 1473861095474 StringCalculatorTest.java
+UnitTestCaseAction 1473861096322 StringCalculatorTest.java OK
+UnitTestSessionAction 1473861096323 StringCalculatorTest.java OK
+EditAction 1473861100888 StringCalculatorTest.java 536 2 6 2

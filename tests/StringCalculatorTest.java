@@ -12,11 +12,11 @@ public class StringCalculatorTest {
 		assertEquals(0, result);
 	}
 	@Test
-	public void testEmptyString_Return_Zero() {
+	public void testEmptyString_One_Value_Return_Value() {
 		StringCalculator calculator = new StringCalculator();
 		
-		int result = calculator.add("");
-		assertEquals(0, result);
+		int result = calculator.add("1");
+		assertEquals(5, result);
 	}
 	
 	//@Test
