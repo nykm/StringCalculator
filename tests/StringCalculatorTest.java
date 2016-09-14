@@ -6,7 +6,14 @@ public class StringCalculatorTest {
 
 	@Test
 	public void testEmptyString_Return_Zero() {
-		StringCalculator calculator = new Calculator();
+		StringCalculator calculator = new StringCalculator();
+		
+		int result = calculator.add("");
+		assertEquals(0, result);
+	}
+	@Test
+	public void testEmptyString_Return_Zero() {
+		StringCalculator calculator = new StringCalculator();
 		
 		int result = calculator.add("");
 		assertEquals(0, result);
