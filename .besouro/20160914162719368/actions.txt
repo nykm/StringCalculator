@@ -151,3 +151,5 @@ RefactoringAction 1473861123536 StringCalculatorTest.java RENAME testEmptyString
 CompilationAction 1473861125875 StringCalculatorTest.java
 RefactoringAction 1473861158535 SudokuVerifierTest.java RENAME testCandidateContains_ShortString_Exception()=>void testVerify_CandidateContains_ShortString_Exception() METHOD
 EditAction 1473861168146 SudokuVerifierTest.java 4220 10 31 8
+RefactoringAction 1473861175583 SudokuVerifierTest.java RENAME testCandidateContains_Zero_Err1()=>void testVerify_CandidateContains_Zero_Err1() METHOD
+EditAction 1473861175727 SudokuVerifierTest.java 4227 10 31 8
