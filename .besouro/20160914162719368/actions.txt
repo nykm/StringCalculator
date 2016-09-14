@@ -48,3 +48,4 @@ RefactoringAction 1473859994342 StringCalculator.java ADD import java.util.regex
 CompilationAction 1473859995353 StringCalculator.java
 CompilationAction 1473859995508 StringCalculator.java
 EditAction 1473860004660 StringCalculator.java 285 1 3 0
+EditAction 1473860110226 StringCalculator.java 293 1 3 0
