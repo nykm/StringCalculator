@@ -7,6 +7,8 @@ public class StringCalculatorTest {
 	@Test
 	public void testEmptyString_Return_Zero() {
 		StringCalculator calculator = new Calculator();
+		
+		calculator.add("")
 	}
 	@Test
 	//public void test() {

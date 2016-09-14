@@ -6,3 +6,13 @@ EditAction 1473859819437 StringCalculator.java 193 1 2 0
 RefactoringAction 1473859834140 StringCalculatorTest.java REMOVE test() METHOD
 RefactoringAction 1473859859670 StringCalculatorTest.java ADD void testEmptyString_Return_Zero() METHOD
 EditAction 1473859871788 StringCalculatorTest.java 273 1 1 0
+CompilationAction 1473859872013 StringCalculatorTest.java
+CompilationAction 1473859872013 StringCalculatorTest.java
+CompilationAction 1473859872014 StringCalculatorTest.java
+CompilationAction 1473859884332 StringCalculatorTest.java
+CompilationAction 1473859884333 StringCalculatorTest.java
+CompilationAction 1473859884487 StringCalculatorTest.java
+CompilationAction 1473859884488 StringCalculatorTest.java
+CompilationAction 1473859884488 StringCalculatorTest.java
+CompilationAction 1473859884488 StringCalculatorTest.java
+EditAction 1473859895811 StringCalculator.java 214 1 2 0
