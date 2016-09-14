@@ -17,6 +17,7 @@ public class StringCalculator {
 		}
 		
 		if (matcher.matches()) {
+			int number1 = Integer.parseInt(matcher.group(2));
 			return Integer.parseInt(matcher.group(2));
 		}
 		
